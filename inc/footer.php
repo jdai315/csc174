@@ -1,3 +1,9 @@
-<ul> Jerry Dai </ul>
-<ul> Philip Kallinos </ul>
-<ul> Estella Kim </ul>
+<?php 
+echo
+  "
+<ul> 
+<li>Jerry Dai </li>
+<li> Philip Kallinos </li>
+<li> Estella Kim </li>
+</ul> "
+?>
