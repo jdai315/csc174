@@ -5,4 +5,3 @@
 <li>Philip Kallinos</li>
 <li>Estella Kim</li>
 </ul>
-<h1>Test</h1>
