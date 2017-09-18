@@ -1,3 +1,3 @@
 <?php
-echo '<a href="jerrydai.php"</a>Jerry Dai <a href="philipkallinos.php"</a> Phillip Kallinos <a href="estellakim.php" </a>Estella Kim'
+echo '<a href="jerrydai.php".Jerry Dai</a> <a href="philipkallinos.php".Philip Kallinos</a> <a href="estellakim.php".Estella Kim </a> '
 ?>
