@@ -2,10 +2,15 @@
 				margin:0 auto;
 				width:100%;
 				max-width:1080px;
+				font-family: Georgia, serif;
+
 }
 
 .heading {
-				font-size: 40px;
+				font-size: 36px;
+				text-transform: uppercase;
+				color: white;
+				text-align: center;
 				background-color: rgba(10,10,100,1);
 				min-height:	200px;
 }
