@@ -1,0 +1,244 @@
+.container {
+				margin:0 auto;
+				width:90%;
+				max-width:960px;
+}
+
+ .banner	{
+				background-color: #F8F8FF;
+				padding-left: 20px;
+
+}
+
+.banner h1 {
+		font-size: 40px;
+		border:1px;
+}
+
+.banner a{
+			color:blue;
+}
+
+.banner a:hover{
+				color:blue;
+}
+
+.divbanner  {
+			position:relative;
+			bottom: 30px;
+
+}
+
+.menu	{
+		position: relative;
+		bottom:15px;
+}
+.main,.side {
+				display: table-cell;
+}
+
+.main {
+			width:65%;
+			background-color: #F0F8FF;
+			padding-left: 20px;
+			padding-right: 15px;
+}
+
+.side {		
+			width:35%;
+			padding-left:30px;
+			padding-right: 10px;
+			background-color: #F0FFFF;
+}
+
+aside ul {
+			text-align: center;
+}
+body {
+		background-color: #F5F5F5;
+		color: black;
+		font-family: Helvetica, Arial, sans-serif;
+}
+
+h2 {
+		font-size: 32px;
+		border-bottom: 5px dashed #7B68EE ;
+		color: #191970;
+		text-align: center;
+}
+
+h3	{
+		font-size: 22px
+}
+
+
+
+h4 {
+		font-size: 22px;
+		font-style: oblique;
+		color: #8A2BE2;
+
+}
+
+h5	{
+		font-size: 18px;
+}
+
+.asideheaders {
+				color: #4B0082;
+				text-align: center;
+
+}
+
+.asidep {
+			text-align: left;
+}
+		
+#image {
+			float: right;
+			margin-left: 20px;
+			margin-top:50px;
+			margin-bottom:15px;
+			text-align: center;
+			color: #8B008B
+}
+
+figure { display: table; width: 1px; }
+
+#logo {
+			float: right;
+			margin-left: 20px;
+			margin-top:15px;
+			margin-bottom:15px;
+			text-align: center;
+			color: #8B008B;
+			width: 100%;
+			max-width: 200px;
+}
+
+table {
+			text-align: center;
+			padding:5px;
+			margin:10px;
+			border-color: #4B0082;
+
+}
+
+a {
+		color: #4169E1;
+		text-decoration: none;
+}
+
+a:hover {
+			color: #FF1493; 
+}
+
+.cite	{
+			list-style-type: none;
+			padding-bottom: 2px;
+}
+
+footer {
+			background-color: #F8F8FF;
+			padding-top: 5px;
+			padding-left: 10px;
+}	
+
+footer h4 {
+				text-align: center;
+				border-top: 2px solid #7B68EE;
+				padding-top:10px;
+}
+/*navigation*/
+.menu ul {
+			margin: 0;
+			padding-left: 0;
+			list-style-type: none;
+}
+
+.menu li {
+			border: 1px solid black;
+}
+
+.menu a {
+			color: #FF00FF;
+}
+
+.menu a:hover {
+				color: white;
+				background-color: #333333;
+}
+
+.menu a {
+		color: black;
+		display: block;
+		padding: 5px 20px;
+}
+
+.menu li { display: table-cell;}
+
+.menu ul { border-collapse: collapse;}
+
+.jeff	{
+		background-color: red;   
+}
+
+.david	{
+		background-color: red;   
+}
+
+.mike	{
+		background-color: red;   
+}
+
+.roger	{
+		background-color: red;   
+}
+
+.home	{
+		background-color: red;   
+}
+
+/*Mobile*/
+
+@media (max-width: 960px)	{
+
+	#image {
+		float: none;
+	}
+
+	.main, .side	{
+						display: block;
+						width: auto;
+						padding-top: 5px;
+						padding-bottom: 5px;
+	}
+
+	#logo	{
+			float: none;
+	}
+
+	nav	{
+			position: static;
+	}
+}
+
+@media (max-width: 590px)	{
+	.tables	{
+			font-size: 12px;
+	}
+
+	.main{
+		padding-bottom: 2px;
+
+	}
+
+}
+
+@media (max-width: 500px)	{
+
+	.menu li {
+				display: block;
+	}
+}
+
