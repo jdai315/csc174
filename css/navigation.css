@@ -29,6 +29,6 @@
 }
 
 .menu a:hover, li.active {
-	color: #FFFFFF;
+	color: white;
 	background-color: black;
 }
