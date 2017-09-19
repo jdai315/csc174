@@ -12,6 +12,9 @@
 				text-transform: uppercase;
 				color: white;
 				text-align: center;
+				display: flex;
+				align-items: center;
+				justify-content: center;
 				background-color: rgba(10,10,100,1);
 				min-height:	200px;
 }
