@@ -38,8 +38,17 @@ footer {
 
 footer ul {
 				list-style-type: none;
+				width: 100%;
+
 }
 
+footer li {
+				display: table-cell;
+				width: 5%;
+				margin: 0px;
+				padding: 0px;
+
+}
 
 h2 {
 			text-align: center;
