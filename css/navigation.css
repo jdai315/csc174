@@ -33,3 +33,13 @@
 	color: white;
 	background-color: black;
 }
+
+@media (max-width: 720px) {
+	.menu li{
+				display: block;
+				width: 100%;
+				border: none;
+				border-bottom: 1px solid black;
+				margin: 5px;	
+	}
+}
