@@ -19,7 +19,7 @@
 
             <header>
                 <div class="heading">
-                    <h1>Group #2 Assignment #4</h1>
+                    <h1>CSC 174 - Group #2</h1>
                 </div><!--closes heading class-->
             </header>
 
