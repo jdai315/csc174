@@ -1,3 +1,8 @@
 <?php
-echo '<a href="index.php">Home</a> <a href="jerrydai.php">Jerry Dai</a> <a href="philipkallinos.php">Philip Kallinos</a> <a href="estellakim.php">Estella Kim </a> '
+echo '
+<ul>
+<li> <a href="index.php">Home</a> </li>
+<li> <a href="jerrydai.php">Jerry Dai</a> </li>
+<li> <a href="philipkallinos.php">Philip Kallinos</a> </li>
+<li> <a href="estellakim.php">Estella Kim </a> </li> </ul>'
 ?>
