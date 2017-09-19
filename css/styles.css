@@ -9,7 +9,7 @@ body	{
 				margin:0 auto;
 				padding: 0px;
 				width:100%;
-				max-width:900px;
+				max-width:960px;
 				font-family: Georgia, serif;
 				background-color: #F0F8FF;
 }
@@ -63,6 +63,16 @@ h2 {
 
 p {
 	padding: 10px;
+}
+
+.well a {
+			text-decoration: none;
+			color: black;
+}
+
+.well h2:hover, .well h2:hover a {
+					background-color: rgba(10,10,100,1);
+					color: white;
 }
 
 @media (max-width: 767px) {
