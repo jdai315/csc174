@@ -9,6 +9,7 @@
 
         <link href="css/styles.css" rel="stylesheet">
         <link href="css/navigation.css" rel="stylesheet">
+        <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
         <script type="text/javascript" src="static/jquery.js"></script>
     </head>
 
