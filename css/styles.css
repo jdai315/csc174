@@ -11,6 +11,7 @@ body	{
 			margin: 0px;
 			padding: 0px;
 }
+
 .heading {
 			font-size: 28px;
 			padding: 10px;
@@ -37,6 +38,14 @@ footer {
 				list-style-type: none;
 }
 
+.well {
+			border: 1px solid black;
+			border-collapse: collapse;
+			padding: 5px;
+			margin: 5px;
+			width: 100%;
+
+}
 @media (max-width: 767px) {
 	.container {
 					width:80%;
