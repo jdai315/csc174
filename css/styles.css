@@ -21,12 +21,15 @@
 
 footer {
 			width: 100%;
-			margin: 10px;
+			padding: 10px;
 			background-color: rgba(10,10,100,1);
 			color: white;
 			text-decoration: none;
 }
 
+.footer ul {
+				list-style-type: none;
+}
 
 @media (max-width: 767px) {
 	.container {
