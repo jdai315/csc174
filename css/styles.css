@@ -30,7 +30,6 @@ body	{
 
 footer {
 			width: 100%;
-			padding: 3px;
 			background-color: rgba(10,10,100,1);
 			color: white;
 			text-decoration: none;
@@ -38,6 +37,10 @@ footer {
 
 footer ul {
 				list-style-type: none;
+				margin: 0px;
+				padding: 0px;
+				padding-top: 10px;
+				padding-bottom: 10px;
 				width: 100%;
 
 }
@@ -47,6 +50,7 @@ footer li {
 				width: 5%;
 				margin: 0px;
 				padding: 0px;
+				text-align: center;
 
 }
 
