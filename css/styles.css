@@ -1,16 +1,17 @@
+
+body	{
+			margin: 0px;
+			padding: 0px;
+			background-color: white;
+}
+
 .container {
 				margin:0 auto;
 				padding: 0px;
 				width:100%;
 				max-width:900px;
 				font-family: Georgia, serif;
-
-}
-
-body	{
-			margin: 0px;
-			padding: 0px;
-			background-color: #F0F8FF;
+				background-color: #F0F8FF;
 }
 
 .heading {
@@ -35,11 +36,21 @@ footer {
 			text-decoration: none;
 }
 
-.footer ul {
+footer ul {
 				list-style-type: none;
 }
 
 
+h2 {
+			text-align: center;
+			background-color: #c2f0f0;
+			border-bottom: 1px solid black;
+			padding: 2px;
+}
+
+p {
+	padding: 10px;
+}
 
 @media (max-width: 767px) {
 	.container {

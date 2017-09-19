@@ -24,6 +24,7 @@
 .menu a {
 	display: block;
 	text-decoration: none;
+	color: rgba(10,10,100,1);
 	width: 100%;
 	height: 100%;
 }
