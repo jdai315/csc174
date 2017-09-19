@@ -33,6 +33,7 @@ body	{
 h2 {
 			text-align: center;
 			font-size: 16px;
+			color: #008080;
 			background-color: #c2f0f0;
 			border-bottom: 1px solid black;
 			padding: 2px;
@@ -45,7 +46,7 @@ p {
 
 .well a {
 			text-decoration: none;
-			color: black;
+			color: #008080;
 }
 
 .well h2:hover, .well h2:hover a {

@@ -30,8 +30,8 @@
 }
 
 .menu a:hover, li.active, li.active a {
+	background-color: #008080;
 	color: white;
-	background-color: black;
 }
 
 @media (max-width: 720px) {
