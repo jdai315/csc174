@@ -28,7 +28,7 @@
 	height: 100%;
 }
 
-.menu a:hover, li.active {
+.menu a:hover, li.active, li.active a {
 	color: white;
 	background-color: black;
 }
