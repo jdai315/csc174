@@ -28,32 +28,6 @@ body	{
 			height: 240px;
 }
 
-footer {
-			width: 100%;
-			background-color: rgba(10,10,100,1);
-			color: white;
-			text-decoration: none;
-}
-
-footer ul {
-				list-style-type: none;
-				margin: 0px;
-				padding: 0px;
-				padding-top: 10px;
-				padding-bottom: 10px;
-				width: 100%;
-
-}
-
-footer li {
-				display: table-cell;
-				width: 5%;
-				margin: 0px;
-				padding: 0px;
-				text-align: center;
-
-}
-
 h2 {
 			text-align: center;
 			background-color: #c2f0f0;
@@ -73,6 +47,30 @@ p {
 .well h2:hover, .well h2:hover a {
 					background-color: rgba(10,10,100,1);
 					color: white;
+}
+
+footer {
+			width: 100%;
+			background-color: rgba(10,10,100,1);
+			color: white;
+			text-decoration: none;
+}
+
+footer ul {
+				list-style-type: none;
+				margin: 0px;
+				padding: 0px;
+				padding-top: 10px;
+				padding-bottom: 10px;
+				width: 100%;
+}
+
+footer li {
+				display: table-cell;
+				width: 5%;
+				margin: 0px;
+				padding: 0px;
+				text-align: center;
 }
 
 @media (max-width: 767px) {
