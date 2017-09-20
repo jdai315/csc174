@@ -2,6 +2,7 @@
 	margin-top: 5px;
 	margin-bottom: 5px;
 	text-align: center;
+	width: 100%;
 }
 
 .menu ul {
@@ -18,7 +19,10 @@
 	border: 1px solid black;
 	width: 5%;
 	margin: 0px;
-	padding: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 
 .menu a {
@@ -27,7 +31,7 @@
 	color: rgba(10,10,100,1);
 	width: 100%;
 	height: 100%;
-	padding: 1px;
+	padding: 0px;
 }
 
 .menu a:hover, .menu li:hover, li.active, li.active a {
@@ -35,12 +39,12 @@
 	color: white;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 767px) {
 	.menu li{
 				display: block;
 				width: 100%;
 				border: none;
 				border-bottom: 1px solid black;
-				margin: 5px;	
+				margin: 0px;	
 	}
 }
