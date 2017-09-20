@@ -1,7 +1,7 @@
 body	{
 			margin: 0px;
 			padding: 0px;
-			background-color: white;
+			background-color: #e6f3ff;
 			font-size: 16px;
 }
 
@@ -13,26 +13,27 @@ body	{
 				height: 100%;
 				font-family: Georgia, serif;
 				background-color: #F0F8FF;
+
 }
 
 .heading {
+			color: white;
+			background-color: rgba(10,10,100,1);
 			font-size: 28px;
 			padding: 10px;
 			margin: 0px;
 			text-transform: uppercase;
-			color: white;
 			text-align: center;
 			display: flex;
 			align-items: center;
 			justify-content: center;
-			background-color: rgba(10,10,100,1);
 			height: 200px;
 }
 
 h2 {
 			text-align: center;
 			font-size: 20px;
-			color: #008080;
+			color: #004d4d;
 			background-color: #c2f0f0;
 			border-bottom: 1px solid black;
 			padding: 2px;
@@ -45,7 +46,7 @@ p {
 
 .well a {
 			text-decoration: none;
-			color: #008080;
+			color: #004d4d;
 }
 
 .well h2:hover, .well h2:hover a {
@@ -58,6 +59,7 @@ footer {
 			background-color: rgba(10,10,100,1);
 			color: white;
 			text-decoration: none;
+			border-radius: 10px;
 }
 
 footer ul {
