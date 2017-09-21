@@ -55,6 +55,10 @@ p {
 			width: 100%;
 }
 
+.well a:hover {
+				color: rgba(10,10,100,1);
+}
+
 .well h2:hover, .well h2:hover a {
 					background-color: rgba(10,10,100,1);
 					color: white;
