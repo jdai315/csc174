@@ -39,11 +39,6 @@
                     I am currently a Junior at the University of Rochester. I am studying Business with a concentration in Finance. I plan on completing a minor in math and computer science, hopefully.
                 </p>
 
-                <h2>Sports</h2>
-                <p>
-                    I currently do not play any sports, but I used to do boxing, muay thai and soccer. I would like to start doing boxing or muay thai again.
-                </p>
-
                 <h2>Interests and Hobbies</h2>
                 <p>
                     I enjoy playing video games and drawing in my free time. My favorite video game is the Dark Souls series. Right now, I am trying to beat Dark Souls 3. I also like cars. This Spring I bought my first car, a Subaru BRZ. My favorite TV show is Game of Thrones and my favorite movie is Pulp Fiction. I have a Pulp Fiction poster hanging in my room.
@@ -58,11 +53,7 @@
                 <p>
                     I created and maintained records of the progress of the job site (a new New York Presbyterian Hospital). I created about 150 Duck Leak Tests, participated in weekly commissioning meetings, commissioned equipment, and recorded documents on subcontractors and daily reports.
                 </p>
-                
-                <h2>Helios Aluminum Siding Corp.</h2>
-                <p>
-                    I installed windows, roofing, and siding for residential houses, and was responsible for cleaning work areas and disposing materials.
-                </p>
+  
             </div><!--closes content class-->
 
             <footer>

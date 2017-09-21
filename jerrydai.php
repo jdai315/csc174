@@ -31,12 +31,7 @@
                 
                 <h2>Personal Bio</h2>
                 <p>
-                    Hi my name is Jerry and I am a junior at the U of R. I'm from Queens, NY but my parents moved to Brooklyn from China when they were in their early 20s. My hobbies are music, lifting, and cooking. My favorite foods include halal, vodka slices, and sushi. Next summer, I will be interning at EY LLP as part of the FSO Technology Advisor Program.
-                </p>
-
-                <h2>LinkedIn Bio</h2>
-                <p>
-                    Junior at the University of Rochester interested in the importance of technology in businesses. On the fun side of things, I'm a drummer for the Rock Repertory Ensemble at the University of Rochester, I participated in the "Code Suisse" coding challenge at Credit Suisse, I've been on live TV playing piano at a talent show, and I've spent one summer as a paddler on the NY Metro Athletic Dragons dragon-boating team.
+                    Hi my name is Jerry and I am a junior at the U of R. I'm from Queens, NY but my parents moved to Brooklyn from China when they were in their early 20s. My hobbies are music, lifting, and cooking. My favorite foods include halal, vodka slices, and sushi. I am double majoring in Business and Computer Science and I'm interested in working in finance in the future. Next summer, I will be interning at EY LLP as part of the FSO Technology Advisor Program.
                 </p>
 
                 <h2>Associate - Greater Flushing Chamber of Commerce</h2>
@@ -46,7 +41,7 @@
                 
                 <h2>Student Success Intern - Aspire</h2>
                 <p>
-                    I managed email marketing campaigns and outreach to student groups from various universities. I also took part in some product-testing and product-feedback studies.
+                    At the start-up Aspire, I managed email marketing campaigns and outreach to student groups from various universities. I also took part in some product-testing and product-feedback studies.
                 </p>
                 
                 <h2>Business Finance Intern - NYC Seminar and Conference Center</h2>
