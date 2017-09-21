@@ -34,6 +34,7 @@
                     <p>
                         Hi my name is Jerry and I am a junior at the U of R. I'm from Queens, NY but my parents moved to Brooklyn from China when they were in their early 20s.
                     </p>
+                    <a href="jerrydai.php">Read more about Jerry</a>
                 </div><!--closes well class-->
 
                 <div class="well">
@@ -41,6 +42,7 @@
                     <p>
                         I am from Lindenhurst, New York. My parents are both immigrants. My father is from Cyprus and my mother is from Thailand. I also have one older sister.
                     </p>
+                    <a href="jerrydai.php">Read more about Philip</a>
                 </div><!--closes well class-->
 
                 <div class="well">
@@ -48,6 +50,7 @@
                     <p> 
                         I know HTML, CSS, JavaScript, Java, and Python. I speak English, Korean, and Japanese. I know these Adobe programs: InDesign, Dreamweaver, and Photoshop.
                     </p>
+                    <a href="jerrydai.php">Read more about Estella</a>
                 </div><!--closes well class-->
 
             </div><!--closes content class-->
