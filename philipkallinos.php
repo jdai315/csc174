@@ -46,14 +46,23 @@
 
                 <h2>Interests and Hobbies</h2>
                 <p>
-                    I enjoy playing video games and drawing in my free time. My favorite video game is the Dark Souls series. Right now, I am trying to beat Dark Souls 3. I also like cars. This Spring I bought my first car, a Subaru BRZ.
-                </p>
-
-                <h2>Movies/TV shows</h2>
-                <p>
-                    My favorite TV show is Game of Thrones and my favorite movie is Pulp Fiction. I have a Pulp Fiction poster hanging in my room.
+                    I enjoy playing video games and drawing in my free time. My favorite video game is the Dark Souls series. Right now, I am trying to beat Dark Souls 3. I also like cars. This Spring I bought my first car, a Subaru BRZ. My favorite TV show is Game of Thrones and my favorite movie is Pulp Fiction. I have a Pulp Fiction poster hanging in my room.
                 </p>
                 
+                <h2>Teaching Assistant for FIN 204 - University of Rochester</h2>
+                <p>
+                    I hold office hours twice a week as well as assist students by appointment. I manage over 90 students.
+                </p>
+                
+                <h2>Assistant Project Manager - PJ Mechanical Corp.</h2>
+                <p>
+                    I created and maintained records of the progress of the job site (a new New York Presbyterian Hospital). I created about 150 Duck Leak Tests, participated in weekly commissioning meetings, commissioned equipment, and recorded documents on subcontractors and daily reports.
+                </p>
+                
+                <h2>Helios Aluminum Siding Corp.</h2>
+                <p>
+                    I installed windows, roofing, and siding for residential houses, and was responsible for cleaning work areas and disposing materials.
+                </p>
             </div><!--closes content class-->
 
             <footer>
