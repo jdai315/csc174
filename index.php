@@ -32,7 +32,7 @@
                 <div class="well">
                     <h2><a href="jerrydai.php">Jerry Dai</a></h2>
                     <p>
-                        Hi my name is Jerry and I am a junior at the U of R. I'm from Queens, NY but my parents moved to Brooklyn from China when they were in their early 20s.
+                        Hi my name is Jerry and I am a junior at the U of R. I'm from Queens, NY but my parents moved to Brooklyn from China when they were in their early 20s. My hobbies are music, lifting, and cooking. My favorite foods include halal, vodka slices, and sushi. I am double majoring in Business and Computer Science and I'm interested in working in finance in the future.
                     </p>
                     <a href="jerrydai.php">Read more about Jerry</a>
                 </div><!--closes well class-->
@@ -40,7 +40,7 @@
                 <div class="well">
                     <h2><a href="philipkallinos.php">Philip Kallinos</a></h2>
                     <p>
-                        I am from Lindenhurst, New York. My parents are both immigrants. My father is from Cyprus and my mother is from Thailand. I also have one older sister.
+                        I am from Lindenhurst, New York. My parents are both immigrants. My father is from Cyprus and my mother is from Thailand. I also have one older sister. I am currently a Junior at the University of Rochester. I am studying Business with a concentration in Finance. I plan on completing a minor in math and computer science, hopefully.
                     </p>
                     <a href="jerrydai.php">Read more about Philip</a>
                 </div><!--closes well class-->
@@ -48,7 +48,7 @@
                 <div class="well">
                     <h2><a href="estellakim.php">Estella Kim</a></h2>
                     <p> 
-                        I know HTML, CSS, JavaScript, Java, and Python. I speak English, Korean, and Japanese. I know these Adobe programs: InDesign, Dreamweaver, and Photoshop.
+                        I have taken the following courses: Marketing Research & Analytics, Principles of Marketing, Financial Accounting, Managerial Accounting, Principles of Economics, and Microeconomics. I know HTML, CSS, JavaScript, Java, and Python. I speak English, Korean, and Japanese. I know these Adobe programs: InDesign, Dreamweaver, and Photoshop.
                     </p>
                     <a href="jerrydai.php">Read more about Estella</a>
                 </div><!--closes well class-->
