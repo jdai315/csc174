@@ -51,12 +51,12 @@ p {
 
 .well a {
 			text-decoration: none;
-			color: rgba(10,10,100,1);
+			color: #004d4d;
 			width: 100%;
 }
 
 .well a:hover {
-				color: #008080;
+				color: rgba(10,10,100,1);
 }
 
 .well h2:hover, .well h2:hover a {
